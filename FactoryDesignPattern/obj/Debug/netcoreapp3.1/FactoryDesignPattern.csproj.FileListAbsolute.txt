@@ -1,0 +1,13 @@
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.exe
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.deps.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csprojAssemblyReference.cache
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.pdb
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\netcoreapp3.1\FactoryDesignPattern.genruntimeconfig.cache

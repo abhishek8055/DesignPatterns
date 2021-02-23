@@ -1,0 +1,15 @@
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.exe
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.deps.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.runtimeconfig.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.runtimeconfig.dev.json
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\ref\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\bin\Debug\net5.0\FactoryDesignPattern.pdb
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.AssemblyInfoInputs.cache
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.AssemblyInfo.cs
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\ref\FactoryDesignPattern.dll
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.pdb
+C:\Users\DA118AA\Work\Archive\Codes\Coding Apps\DesignPatternsProject\FactoryDesignPattern\obj\Debug\net5.0\FactoryDesignPattern.genruntimeconfig.cache
